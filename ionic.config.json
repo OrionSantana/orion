@@ -1,0 +1,8 @@
+{
+  "name": "orion",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "5664321a"
+}
